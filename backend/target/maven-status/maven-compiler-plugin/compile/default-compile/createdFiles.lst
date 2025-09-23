@@ -1,0 +1,7 @@
+com\deepsea\divers\products\role\Role.class
+com\deepsea\divers\products\entity\User.class
+com\deepsea\divers\products\AquaVistaApplication.class
+com\deepsea\divers\products\repository\UserRepository.class
+com\deepsea\divers\products\exceptions\UserNotFoundException.class
+com\deepsea\divers\products\controller\UserController.class
+com\deepsea\divers\products\service\UserService.class
